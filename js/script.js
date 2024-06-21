@@ -2,7 +2,7 @@ let attempts = 0;
 let hintIndex = 0;
 const maxAttempts = 3;
 const correctPassword = '2129';
-const hints = ['2', '22', '220', '2205'];
+const hints = ['2', '21', '212', '2129'];
 
 // Função para carregar as dicas da sessão
 function loadHint() {
